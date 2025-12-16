@@ -1,0 +1,7 @@
+C:\Users\SBS\Desktop\국기지원\study_12_15_02\bin\Debug\study_12_15_02.exe.config
+C:\Users\SBS\Desktop\국기지원\study_12_15_02\bin\Debug\study_12_15_02.exe
+C:\Users\SBS\Desktop\국기지원\study_12_15_02\bin\Debug\study_12_15_02.pdb
+C:\Users\SBS\Desktop\국기지원\study_12_15_02\obj\Debug\study_12_15_02.csproj.AssemblyReference.cache
+C:\Users\SBS\Desktop\국기지원\study_12_15_02\obj\Debug\study_12_15_02.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\국기지원\study_12_15_02\obj\Debug\study_12_15_02.exe
+C:\Users\SBS\Desktop\국기지원\study_12_15_02\obj\Debug\study_12_15_02.pdb

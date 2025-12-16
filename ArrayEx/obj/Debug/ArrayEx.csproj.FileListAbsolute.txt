@@ -1,0 +1,7 @@
+C:\Users\SBS\Desktop\국기지원\ArrayEx\bin\Debug\ArrayEx.exe.config
+C:\Users\SBS\Desktop\국기지원\ArrayEx\bin\Debug\ArrayEx.exe
+C:\Users\SBS\Desktop\국기지원\ArrayEx\bin\Debug\ArrayEx.pdb
+C:\Users\SBS\Desktop\국기지원\ArrayEx\obj\Debug\ArrayEx.csproj.AssemblyReference.cache
+C:\Users\SBS\Desktop\국기지원\ArrayEx\obj\Debug\ArrayEx.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\국기지원\ArrayEx\obj\Debug\ArrayEx.exe
+C:\Users\SBS\Desktop\국기지원\ArrayEx\obj\Debug\ArrayEx.pdb
