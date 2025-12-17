@@ -5,3 +5,10 @@ C:\Users\SBS\Desktop\국기지원\Inventory\obj\Debug\Inventory.csproj.AssemblyR
 C:\Users\SBS\Desktop\국기지원\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
 C:\Users\SBS\Desktop\국기지원\Inventory\obj\Debug\Inventory.exe
 C:\Users\SBS\Desktop\국기지원\Inventory\obj\Debug\Inventory.pdb
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Inventory\bin\Debug\Inventory.exe.config
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Inventory\bin\Debug\Inventory.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Inventory\bin\Debug\Inventory.pdb
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Inventory\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Inventory\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Inventory\obj\Debug\Inventory.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Inventory\obj\Debug\Inventory.pdb
