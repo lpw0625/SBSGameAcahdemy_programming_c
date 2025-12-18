@@ -1,0 +1,7 @@
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\ListEx\obj\Debug\ListEx.csproj.AssemblyReference.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\ListEx\obj\Debug\ListEx.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\ListEx\bin\Debug\ListEx.exe.config
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\ListEx\bin\Debug\ListEx.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\ListEx\bin\Debug\ListEx.pdb
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\ListEx\obj\Debug\ListEx.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\ListEx\obj\Debug\ListEx.pdb

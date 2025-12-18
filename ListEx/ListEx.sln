@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListEx", "ListEx.csproj", "{26D9F4BC-FC06-4EEE-8920-E1E675996FE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "praticeEx", "..\praticeEx\praticeEx.csproj", "{CC1C23AC-1F7D-4C1C-BE47-C19FAADFF393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26D9F4BC-FC06-4EEE-8920-E1E675996FE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26D9F4BC-FC06-4EEE-8920-E1E675996FE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26D9F4BC-FC06-4EEE-8920-E1E675996FE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26D9F4BC-FC06-4EEE-8920-E1E675996FE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC1C23AC-1F7D-4C1C-BE47-C19FAADFF393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC1C23AC-1F7D-4C1C-BE47-C19FAADFF393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC1C23AC-1F7D-4C1C-BE47-C19FAADFF393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC1C23AC-1F7D-4C1C-BE47-C19FAADFF393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AFC06A07-7595-42E2-B16F-7BDDEF72E349}
+	EndGlobalSection
+EndGlobal
