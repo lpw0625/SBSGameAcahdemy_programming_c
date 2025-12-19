@@ -1,0 +1,7 @@
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\StringEx\bin\Debug\StringEx.exe.config
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\StringEx\bin\Debug\StringEx.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\StringEx\bin\Debug\StringEx.pdb
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\StringEx\obj\Debug\StringEx.csproj.AssemblyReference.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\StringEx\obj\Debug\StringEx.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\StringEx\obj\Debug\StringEx.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\StringEx\obj\Debug\StringEx.pdb

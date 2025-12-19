@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberBaseBallEx", "NumberBaseBallEx.csproj", "{885BDE4D-7219-4C52-9041-175C0C2E3E1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{885BDE4D-7219-4C52-9041-175C0C2E3E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{885BDE4D-7219-4C52-9041-175C0C2E3E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{885BDE4D-7219-4C52-9041-175C0C2E3E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{885BDE4D-7219-4C52-9041-175C0C2E3E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA5C81F2-3AFA-406E-B17B-DC1225FE9939}
+	EndGlobalSection
+EndGlobal

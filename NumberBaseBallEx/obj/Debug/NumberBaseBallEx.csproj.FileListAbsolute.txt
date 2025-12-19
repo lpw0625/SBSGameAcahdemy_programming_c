@@ -1,0 +1,7 @@
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\NumberBaseBallEx\bin\Debug\NumberBaseBallEx.exe.config
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\NumberBaseBallEx\bin\Debug\NumberBaseBallEx.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\NumberBaseBallEx\bin\Debug\NumberBaseBallEx.pdb
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\NumberBaseBallEx\obj\Debug\NumberBaseBallEx.csproj.AssemblyReference.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\NumberBaseBallEx\obj\Debug\NumberBaseBallEx.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\NumberBaseBallEx\obj\Debug\NumberBaseBallEx.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\NumberBaseBallEx\obj\Debug\NumberBaseBallEx.pdb
