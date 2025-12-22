@@ -1,0 +1,7 @@
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\classEX\bin\Debug\classEX.exe.config
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\classEX\bin\Debug\classEX.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\classEX\bin\Debug\classEX.pdb
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\classEX\obj\Debug\classEX.csproj.AssemblyReference.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\classEX\obj\Debug\classEX.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\classEX\obj\Debug\classEX.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\classEX\obj\Debug\classEX.pdb

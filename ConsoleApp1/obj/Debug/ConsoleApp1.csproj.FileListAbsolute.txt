@@ -1,0 +1,2 @@
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
