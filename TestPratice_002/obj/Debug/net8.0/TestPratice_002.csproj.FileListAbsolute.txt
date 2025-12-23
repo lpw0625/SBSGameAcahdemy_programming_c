@@ -1,0 +1,15 @@
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\TestPratice_002\bin\Debug\net8.0\TestPratice_002.exe
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\TestPratice_002\bin\Debug\net8.0\TestPratice_002.deps.json
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\TestPratice_002\bin\Debug\net8.0\TestPratice_002.runtimeconfig.json
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\TestPratice_002\bin\Debug\net8.0\TestPratice_002.dll
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\TestPratice_002\bin\Debug\net8.0\TestPratice_002.pdb
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\TestPratice_002\obj\Debug\net8.0\TestPratice_002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\TestPratice_002\obj\Debug\net8.0\TestPratice_002.AssemblyInfoInputs.cache
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\TestPratice_002\obj\Debug\net8.0\TestPratice_002.AssemblyInfo.cs
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\TestPratice_002\obj\Debug\net8.0\TestPratice_002.csproj.CoreCompileInputs.cache
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\TestPratice_002\obj\Debug\net8.0\TestPratice_002.sourcelink.json
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\TestPratice_002\obj\Debug\net8.0\TestPratice_002.dll
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\TestPratice_002\obj\Debug\net8.0\refint\TestPratice_002.dll
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\TestPratice_002\obj\Debug\net8.0\TestPratice_002.pdb
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\TestPratice_002\obj\Debug\net8.0\TestPratice_002.genruntimeconfig.cache
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\TestPratice_002\obj\Debug\net8.0\ref\TestPratice_002.dll

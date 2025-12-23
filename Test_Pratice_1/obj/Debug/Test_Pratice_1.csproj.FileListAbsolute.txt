@@ -5,3 +5,11 @@ C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Test_Pratice_1\bin\Debug\Test
 C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Test_Pratice_1\bin\Debug\Test_Pratice_1.pdb
 C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Test_Pratice_1\obj\Debug\Test_Pratice_1.exe
 C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Test_Pratice_1\obj\Debug\Test_Pratice_1.pdb
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\Test_Pratice_1\bin\Debug\Test_Pratice_1.exe.config
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\Test_Pratice_1\bin\Debug\Test_Pratice_1.exe
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\Test_Pratice_1\bin\Debug\Test_Pratice_1.pdb
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\Test_Pratice_1\obj\Debug\Test_Pratice_1.csproj.AssemblyReference.cache
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\Test_Pratice_1\obj\Debug\Test_Pratice_1.exe.config
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\Test_Pratice_1\obj\Debug\Test_Pratice_1.csproj.CoreCompileInputs.cache
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\Test_Pratice_1\obj\Debug\Test_Pratice_1.exe
+C:\Users\PC2409\Desktop\국기지원 프로그래밍 수업\SBSGameAcahdemy_programming_c\Test_Pratice_1\obj\Debug\Test_Pratice_1.pdb
