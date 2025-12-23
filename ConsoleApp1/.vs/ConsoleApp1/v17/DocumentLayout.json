@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ConsoleApp1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E1B0998A-B1EA-4054-89C5-8F698F81D56D}|ConsoleApp1.csproj|c:\\users\\sbs\\desktop\\sbsgameacahdemy_programming_c\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1B0998A-B1EA-4054-89C5-8F698F81D56D}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\Monster_Battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +22,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAA7wD4AAAAlAAAA",
+              "Title": "Monster_Battle.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\Monster_Battle.cs",
+              "RelativeDocumentMoniker": "..\\ArrayEx\\Monster_Battle.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\Monster_Battle.cs",
+              "RelativeToolTip": "..\\ArrayEx\\Monster_Battle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-22T03:53:14.768Z",
+              "WhenOpened": "2025-12-23T00:27:03.428Z",
               "EditorCaption": ""
             }
           ]

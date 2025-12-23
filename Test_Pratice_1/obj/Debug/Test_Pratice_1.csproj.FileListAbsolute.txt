@@ -1,0 +1,7 @@
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Test_Pratice_1\obj\Debug\Test_Pratice_1.csproj.AssemblyReference.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Test_Pratice_1\obj\Debug\Test_Pratice_1.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Test_Pratice_1\bin\Debug\Test_Pratice_1.exe.config
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Test_Pratice_1\bin\Debug\Test_Pratice_1.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Test_Pratice_1\bin\Debug\Test_Pratice_1.pdb
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Test_Pratice_1\obj\Debug\Test_Pratice_1.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Test_Pratice_1\obj\Debug\Test_Pratice_1.pdb

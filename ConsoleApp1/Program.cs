@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ConsoleApp1;
+using System;
 using System.Collections.Generic;
 using System.Data.SqlTypes;
 using System.Linq;
@@ -31,115 +32,91 @@ using System.Threading.Tasks;
 // 몬스터는 이 세 부위 상단 중단 하단을 랜덤하게 막고
 // 막으면 공격은 무효 못막으면 데미지가 들어온다.
 // 몬스터가 죽을때까지.
-namespace TestProjectEx
+namespace ConsoleApp1
 {
 
-    class UnitParent
+    enum State
     {
+        none,
+        Battle
+    }
 
-        protected string name = "";
-        protected int hp = 50;
-        protected int att = 5;
+
+    public class Charactor
+    {
+        protected string name;
+
+        public string Name { get { return name; } }
+        protected int hp;
+
+        public int HP { get { return hp; } }
+        protected int att;
+
+        public int Att { get { return att; } }
+    }
 
 
-        public UnitParent(string _name, int _hp, int _att)
+    public class Player : Charactor
+    {
+        public Player(strint _name, int _hp, int _att)
         {
             name = _name;
             hp = _hp;
-            att = _att;
-
+            att = _att; 
         }
     }
-
-    class Player : UnitParent
-    {
-
-        public Player(string _name, int _hp, int _att) : base(_name, _hp, _att)
-        {
-
-        }
-
-
-        public void StatusTextPrint()
-        {
-            Console.WriteLine("============================");
-            Console.WriteLine($"플레이어의 이름 : {name}");
-            Console.WriteLine($"플레이어의 Hp : {hp}");
-            Console.WriteLine($"플레이어의 공격력 : {att}");
-
-
-        }
-    }
-
-
-
-
     internal class Program
     {
-        static void Main(string[] args)
+
+        static void ShowStatusScreen(Player player)
         {
-            Player playerA = new Player("플레이어", 50, 5);
+            Console.WriteLine("----------------------------");
+            Console.WriteLine("스테이터스 창");
+            Console.WriteLine("name : " + player.Name ;
+            Console.WriteLine("hp : " + player.HP;
+            Console.WriteLine("att : " + player.Att);
+
+            Console.WriteLine("----------------------------");
+        }
 
             while (true)
             {
-                ConsoleKeyInfo keyInfo = Console.ReadKey();
+                Console.WriteLine("\n1. 몬스터와 싸운다");
+                Console.WriteLine("2. 대기한다");
 
-                switch (keyInfo.Key)
+                // ReadKey(true)를 사용하면 입력한 키가 화면에 보이지 않아 깔끔합니다.
+                ConsoleKeyInfo keyinfo = Console.ReadKey(true);
+
+                // switch문 뒤에는 반드시 { 가 있어야 합니다.
+                switch (keyinfo.Key)
                 {
                     case ConsoleKey.D1:
-                        Console.WriteLine("몬스터와 싸운다");
-                        break;
+                        Console.WriteLine("-> [결과] 몬스터와 싸웁니다!");
+                        return State.Battle;
 
                     case ConsoleKey.D2:
-                        Console.WriteLine("대기한다");
-                        break;
+                        Console.WriteLine("-> [결과] 대기합니다.");
+                        return State.none;
+
 
                     default:
-                        Console.WriteLine("잘못된 입력");
-                        break;
-
-
+                        Console.WriteLine("-> [에러] 잘못된 입력입니다. 숫자 1 또는 2를 누르세요.");
+                        return State.none;
                 }
-
-
             }
-
         }
 
+        static void Main(string[] args)
+    {
+        Player player = new Player("테스트 플레이어", 10, 3);
+        Player monA = new Player("몬스터", 10, 2);
 
-        //{
+        State state = State.none;
 
-        //    console.writeline("스테이터스 창");
-        //    console.writeline("name : " + "플레이어");
-        //    console.writeline("hp : " + 30);
-        //    console.writeline("att : " + 10);
+        ShowStatusScreen(player);
 
-        //    console.writeline("1, 몬스터와 싸운다");
-        //    console.writeline("2. 대기한다");
-        //    console.readline();
-
-        //    while (true)
-        //    {
-        //         consolekeyinfo keyinfo = console.readkey();
-        //      switch (keyinfo.key)
-
-
-        //                        case consolekey.d1:
-        //            console.writeline("몬스터와 싸웁니다");
-        //                       break;
-
-        //        case consolekey.d2:
-        //            console.writeline("대기합니다");
-        //            break;
-        //        default:
-        //            console.writeline("잘못된 입력입니다.");
-        //            break;
-        //        }
-
-        //    }
-
-
-
+        // 초기 스테이터스 출력
     }
 }
-}
+
+
