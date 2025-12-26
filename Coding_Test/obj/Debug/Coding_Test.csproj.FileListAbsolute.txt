@@ -1,0 +1,7 @@
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Coding_Test\bin\Debug\Coding_Test.exe.config
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Coding_Test\bin\Debug\Coding_Test.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Coding_Test\bin\Debug\Coding_Test.pdb
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Coding_Test\obj\Debug\Coding_Test.csproj.AssemblyReference.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Coding_Test\obj\Debug\Coding_Test.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Coding_Test\obj\Debug\Coding_Test.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Coding_Test\obj\Debug\Coding_Test.pdb

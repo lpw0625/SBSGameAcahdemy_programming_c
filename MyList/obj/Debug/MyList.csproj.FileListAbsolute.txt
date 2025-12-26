@@ -1,0 +1,7 @@
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\MyList\bin\Debug\MyList.exe.config
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\MyList\bin\Debug\MyList.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\MyList\bin\Debug\MyList.pdb
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\MyList\obj\Debug\MyList.csproj.AssemblyReference.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\MyList\obj\Debug\MyList.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\MyList\obj\Debug\MyList.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\MyList\obj\Debug\MyList.pdb

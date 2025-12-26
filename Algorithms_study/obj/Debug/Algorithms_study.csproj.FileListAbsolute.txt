@@ -1,0 +1,7 @@
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Algorithms_study\bin\Debug\Algorithms_study.exe.config
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Algorithms_study\bin\Debug\Algorithms_study.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Algorithms_study\bin\Debug\Algorithms_study.pdb
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Algorithms_study\obj\Debug\Algorithms_study.csproj.AssemblyReference.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Algorithms_study\obj\Debug\Algorithms_study.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Algorithms_study\obj\Debug\Algorithms_study.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Algorithms_study\obj\Debug\Algorithms_study.pdb
