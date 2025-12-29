@@ -1,0 +1,7 @@
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\ConcaveGame\bin\Debug\ConcaveGame.exe.config
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\ConcaveGame\bin\Debug\ConcaveGame.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\ConcaveGame\bin\Debug\ConcaveGame.pdb
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\ConcaveGame\obj\Debug\ConcaveGame.csproj.AssemblyReference.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\ConcaveGame\obj\Debug\ConcaveGame.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\ConcaveGame\obj\Debug\ConcaveGame.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\ConcaveGame\obj\Debug\ConcaveGame.pdb
