@@ -1,0 +1,7 @@
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Review_study\bin\Debug\Review_study.exe.config
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Review_study\bin\Debug\Review_study.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Review_study\bin\Debug\Review_study.pdb
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Review_study\obj\Debug\Review_study.csproj.AssemblyReference.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Review_study\obj\Debug\Review_study.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Review_study\obj\Debug\Review_study.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Review_study\obj\Debug\Review_study.pdb
