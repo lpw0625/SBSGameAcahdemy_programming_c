@@ -20,25 +20,13 @@ namespace TextRpg_Ex
             m_hp = 100;
             m_mp = 30;
             m_gold = _gold;
+            CurX = 1;
+            CurY = 1;
+
         
         
         }
-         public void ShowClassStatus()
-        {
-        
-            Console.WriteLine("※====================================※");
-            Console.WriteLine("[플레이어 스테이터스 창]");
-            Console.WriteLine($"플레이어 이름 : {Name}"  );
-            Console.WriteLine($"레벨          : {Level}");
-            Console.WriteLine($"필요 경험치      : {m_expPersentage}");
-            Console.WriteLine($"공격력        : {AtkValue}");
-            Console.WriteLine($"방어력        : {DefValue}");
-            Console.WriteLine($"골드          : {Gold}");
-            Console.WriteLine("※====================================※");
-
-
-        }
-
+       
 
     }
 }
