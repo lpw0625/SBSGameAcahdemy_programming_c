@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E8A17611-EF2B-4E89-BC21-22D73E2996C9}</ProjectGuid>
+    <ProjectGuid>{1B1A0DF7-33E3-4F10-AAA0-08C1568D0E07}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TextRpg_Ex</RootNamespace>
-    <AssemblyName>TextRpg_Ex</AssemblyName>
+    <RootNamespace>PraticeEx2</RootNamespace>
+    <AssemblyName>PraticeEx2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,13 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Monster.cs" />
-    <Compile Include="PlayerUnit.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Unit.cs" />
-    <Compile Include="WarriorClass.cs" />
-    <Compile Include="Worldmap.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -1,7 +1,0 @@
-C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\TextRpg_Ex\bin\Debug\TextRpg_Ex.exe.config
-C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\TextRpg_Ex\bin\Debug\TextRpg_Ex.exe
-C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\TextRpg_Ex\bin\Debug\TextRpg_Ex.pdb
-C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\TextRpg_Ex\obj\Debug\TextRpg_Ex.csproj.AssemblyReference.cache
-C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\TextRpg_Ex\obj\Debug\TextRpg_Ex.csproj.CoreCompileInputs.cache
-C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\TextRpg_Ex\obj\Debug\TextRpg_Ex.exe
-C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\TextRpg_Ex\obj\Debug\TextRpg_Ex.pdb

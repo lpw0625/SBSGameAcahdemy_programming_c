@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\MyList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F16B25D0-D140-41AF-9A32-957A567403C2}|MyList.csproj|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\MyList\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F16B25D0-D140-41AF-9A32-957A567403C2}|MyList.csproj|c:\\users\\sbs\\desktop\\sbsgameacahdemy_programming_c\\mylist\\mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F16B25D0-D140-41AF-9A32-957A567403C2}|MyList.csproj|solutionrelative:mylinkedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F16B25D0-D140-41AF-9A32-957A567403C2}|MyList.csproj|c:\\users\\sbs\\desktop\\sbsgameacahdemy_programming_c\\mylist\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F16B25D0-D140-41AF-9A32-957A567403C2}|MyList.csproj|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\MyList\\mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F16B25D0-D140-41AF-9A32-957A567403C2}|MyList.csproj|solutionrelative:mylist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "MyLinkedList.cs",
               "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\MyList\\MyLinkedList.cs",
               "RelativeToolTip": "MyLinkedList.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-26T03:28:56.667Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "MyList.cs",
               "ViewState": "AQIAAEUAAAAAAAAAAAAjwGIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-26T02:10:48.251Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-26T02:10:48.251Z"
             }
           ]
         }

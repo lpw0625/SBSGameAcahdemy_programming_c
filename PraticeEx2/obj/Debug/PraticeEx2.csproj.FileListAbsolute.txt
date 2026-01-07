@@ -1,0 +1,7 @@
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\PraticeEx2\bin\Debug\PraticeEx2.exe.config
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\PraticeEx2\bin\Debug\PraticeEx2.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\PraticeEx2\bin\Debug\PraticeEx2.pdb
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\PraticeEx2\obj\Debug\PraticeEx2.csproj.AssemblyReference.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\PraticeEx2\obj\Debug\PraticeEx2.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\PraticeEx2\obj\Debug\PraticeEx2.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\PraticeEx2\obj\Debug\PraticeEx2.pdb
