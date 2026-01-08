@@ -17,7 +17,10 @@ namespace PraticeEx2
             private int m_FirstNum;
             private int m_SecondNum;
 
-
+            public int GetSeceondNum()
+            {
+                return m_SecondNum;
+            }
             public void SetNumber(int Num1, int Num2)
             {
                 m_FirstNum = Num1;
@@ -28,42 +31,30 @@ namespace PraticeEx2
             {
                 return m_FirstNum + m_SecondNum;
             }
-
             public int SubNum()
             {
                 return m_FirstNum - m_SecondNum;
             }
-
             public int MulNum()
             {
                 return m_FirstNum * m_SecondNum;
             }
-
             public double DivNum()
             {
-                if (m_SecondNum == 0)
-                {
-                    Console.WriteLine("0으로 나눈다니 조선천지에 있을 수 없는 일이야.");
-
-                    return 0;
-                }
-                else
-                {
-                    return m_FirstNum / m_SecondNum;
-                }
-
+                return (double)m_FirstNum / m_SecondNum;
             }
-
             public bool IsRunning { set; get; } = true;
         }
             
             static void InputNumber(Calculator _calculator)
             {
+            Console.WriteLine("==============================================");
+            Console.WriteLine("[ + ], [ - ], [ * ], [ / ] 중 하나를 누르라고 임마!");
+            Console.WriteLine("   ");
+            Console.Write("결과 값이야 임마 : ");
 
-                Console.WriteLine("===================");
-                Console.WriteLine("[ + ], [ - ], [ * ], [ / ]");
-                Console.Write("결과 값이야 임마 : ");
-                ConsoleKeyInfo keyInfo = Console.ReadKey(); 
+            // ★ 핵심 수정 사항: true를 추가하여 입력 문자가 화면에 안 나오게 함
+            ConsoleKeyInfo keyInfo = Console.ReadKey(true); 
                 
                 switch(keyInfo.Key)
                 {
@@ -80,16 +71,27 @@ namespace PraticeEx2
                        break;
 
                         case ConsoleKey.Divide:
-                        Console.WriteLine(_calculator.DivNum());
-                        break;
+                            if (_calculator.GetSeceondNum() == 0)
+                            {
+                              
+                                Console.WriteLine("0으로 나눈다니 조선천지에 있을 수 없는 일이야!");
+                            }
+                           else
+                            {
+                            Console.WriteLine(_calculator.DivNum());
+
+                            }
+                            break;
+                       
+                            
 
                         default:
                         Console.WriteLine("정신이 있는거야 없는거야?.");
                         break;
                 }
 
-                Console.WriteLine("=================");
-                Console.WriteLine(" ");
+            Console.WriteLine("==============================================");
+            Console.WriteLine("\n 아무키나 입력을 하면 다시 시작한다고 허허허헣허헣 ");
                 Console.ReadKey();
 
             }
@@ -105,10 +107,13 @@ namespace PraticeEx2
                 Console.WriteLine("두번째 값을 입력하라고허허헣허허허헣");
                 int Num2 = int.Parse(Console.ReadLine()); 
 
-                _calculator.SetNumber(Num1, Num2); 
+                _calculator.SetNumber(Num1, Num2);
+
+     
 
 
-            }
+
+        }
 
         static void Main(string[] args)
         {

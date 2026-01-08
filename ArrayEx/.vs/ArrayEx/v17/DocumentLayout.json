@@ -1,35 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\SBS\\Desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\ArrayEx\\",
+  "WorkspaceRootPath": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E16C146-4B49-4877-B803-D4BF81F8F7E7}|..\\Inventory\\Inventory.csproj|c:\\users\\sbs\\desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\inventory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C731A1B-8D20-41A3-8491-4360287E36E2}|..\\InterFaceEx\\InterFaceEx.csproj|c:\\users\\sbs\\desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\interfaceex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|c:\\users\\sbs\\desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\arrayex\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|c:\\users\\sbs\\desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\arrayex\\monster_talk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|solutionrelative:monster_talk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|c:\\users\\sbs\\desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\arrayex\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|solutionrelative:monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|c:\\users\\sbs\\desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\arrayex\\unitparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|solutionrelative:unitparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|c:\\users\\sbs\\desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\arrayex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|c:\\users\\sbs\\desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\arrayex\\monster_battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\monster_talk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|solutionrelative:monster_talk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\unitparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|solutionrelative:unitparent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|solutionrelative:monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\monster_battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{91C33675-0381-41C8-B816-1BE754A8DEDF}|ArrayEx.csproj|solutionrelative:monster_battle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -40,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -48,37 +42,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\Inventory\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Inventory\\Program.cs",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\Inventory\\Program.cs",
-              "RelativeToolTip": "..\\Inventory\\Program.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAQwDcAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T03:29:49.223Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\InterFaceEx\\Program.cs",
-              "RelativeDocumentMoniker": "..\\InterFaceEx\\Program.cs",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\InterFaceEx\\Program.cs",
-              "RelativeToolTip": "..\\InterFaceEx\\Program.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAAAwwGQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T02:47:13.701Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\ArrayEx\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\ArrayEx\\Player.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\Player.cs",
               "RelativeToolTip": "Player.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -87,37 +55,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Monster.cs",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\ArrayEx\\Monster.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\Monster.cs",
               "RelativeDocumentMoniker": "Monster.cs",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\ArrayEx\\Monster.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\Monster.cs",
               "RelativeToolTip": "Monster.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAcwDoAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA2wDoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T00:29:20.303Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Unitparent.cs",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\ArrayEx\\Unitparent.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\Unitparent.cs",
               "RelativeDocumentMoniker": "Unitparent.cs",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\ArrayEx\\Unitparent.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\Unitparent.cs",
               "RelativeToolTip": "Unitparent.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB0AAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-16T00:31:26.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Monster_Talk.cs",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\ArrayEx\\Monster_Talk.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\Monster_Talk.cs",
               "RelativeDocumentMoniker": "Monster_Talk.cs",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\ArrayEx\\Monster_Talk.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\Monster_Talk.cs",
               "RelativeToolTip": "Monster_Talk.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -126,29 +94,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\ArrayEx\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\ArrayEx\\Program.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T03:34:44.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Monster_Battle.cs",
-              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\ArrayEx\\Monster_Battle.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\Monster_Battle.cs",
               "RelativeDocumentMoniker": "Monster_Battle.cs",
-              "ToolTip": "C:\\Users\\SBS\\Desktop\\\uAD6D\uAE30\uC9C0\uC6D0\\ArrayEx\\Monster_Battle.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\ArrayEx\\Monster_Battle.cs",
               "RelativeToolTip": "Monster_Battle.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-16T00:36:59.061Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-16T00:36:59.061Z"
             }
           ]
         }
