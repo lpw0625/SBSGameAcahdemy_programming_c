@@ -5,3 +5,11 @@ C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\PraticeEx3\obj\Debug\PraticeE
 C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\PraticeEx3\obj\Debug\PraticeEx3.csproj.CoreCompileInputs.cache
 C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\PraticeEx3\obj\Debug\PraticeEx3.exe
 C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\PraticeEx3\obj\Debug\PraticeEx3.pdb
+C:\Users\dlvud\OneDrive\바탕 화면\게임 컨텐츠 제작 국기 지원 프로그래밍 수업 코드\SBSGameAcahdemy_programming_c\PraticeEx3\obj\Debug\PraticeEx3.csproj.AssemblyReference.cache
+C:\Users\dlvud\OneDrive\바탕 화면\게임 컨텐츠 제작 국기 지원 프로그래밍 수업 코드\SBSGameAcahdemy_programming_c\PraticeEx3\obj\Debug\PraticeEx3.exe.config
+C:\Users\dlvud\OneDrive\바탕 화면\게임 컨텐츠 제작 국기 지원 프로그래밍 수업 코드\SBSGameAcahdemy_programming_c\PraticeEx3\obj\Debug\PraticeEx3.csproj.CoreCompileInputs.cache
+C:\Users\dlvud\OneDrive\바탕 화면\게임 컨텐츠 제작 국기 지원 프로그래밍 수업 코드\SBSGameAcahdemy_programming_c\PraticeEx3\obj\Debug\PraticeEx3.exe
+C:\Users\dlvud\OneDrive\바탕 화면\게임 컨텐츠 제작 국기 지원 프로그래밍 수업 코드\SBSGameAcahdemy_programming_c\PraticeEx3\obj\Debug\PraticeEx3.pdb
+C:\Users\dlvud\OneDrive\바탕 화면\게임 컨텐츠 제작 국기 지원 프로그래밍 수업 코드\SBSGameAcahdemy_programming_c\PraticeEx3\bin\Debug\PraticeEx3.exe.config
+C:\Users\dlvud\OneDrive\바탕 화면\게임 컨텐츠 제작 국기 지원 프로그래밍 수업 코드\SBSGameAcahdemy_programming_c\PraticeEx3\bin\Debug\PraticeEx3.exe
+C:\Users\dlvud\OneDrive\바탕 화면\게임 컨텐츠 제작 국기 지원 프로그래밍 수업 코드\SBSGameAcahdemy_programming_c\PraticeEx3\bin\Debug\PraticeEx3.pdb

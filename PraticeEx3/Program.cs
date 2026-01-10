@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.ComponentModel;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -19,6 +21,9 @@ namespace PraticeEx3
             {
                 get { return m_ArrayInt; }
             }
+
+            public bool IsRunning { set; get; } = true;
+
         }
 
         // private로 데이터를 보호를 하면서 사용을 할때는 프로퍼티를 사용을 해보자
@@ -27,7 +32,6 @@ namespace PraticeEx3
 
             static void InputNumber(ArrayNumber _arrayNumber)
             {
-
 
             Console.WriteLine("\n 숫자 5개를 입력을 해보세요");
             for (int i = 0; i < _arrayNumber.Numbers.Length; i++)
@@ -50,16 +54,57 @@ namespace PraticeEx3
         static void ProcessMenu(ArrayNumber _arrayNumber)
         {
             Console.WriteLine("[메뉴얼]");
-            ConsoleKeyInfo keyInfo = Console.ReadKey();
+            ConsoleKeyInfo keyInfo = Console.ReadKey(true);
             switch (keyInfo.Key)
             {
 
                 case ConsoleKey.NumPad1:
+                case ConsoleKey.D1:
+
                     InputNumber(_arrayNumber);
                     break;
 
+                case ConsoleKey.NumPad2:
+                case ConsoleKey.D2:
+
+                    PresetNumber(_arrayNumber);
+                    break;
+
+                case ConsoleKey.NumPad3:
+                case ConsoleKey.D3:
+
+                    RandomInputNumber(_arrayNumber);
+                    Console.WriteLine("\n [랜덤 생성 완료!] 엔터를 누르세요.");
+                    Console.ReadLine();
+                    break;
+
+                case ConsoleKey.NumPad4:
+                case ConsoleKey.D4:
+
+                    AnalyzeNumbers(_arrayNumber);
+                    break;
+
+                case ConsoleKey.NumPad5:
+                case ConsoleKey.D5:
+
+                    ReverseArray(_arrayNumber);
+                    Console.WriteLine("\n [배열 뒤집기 완료!] 엔터를 누르세요.");
+                    Console.ReadLine();
+                    break;
+
+                case ConsoleKey.NumPad0:
+                case ConsoleKey.D0:
+
+                    _arrayNumber.IsRunning = false;
+                    break;
+
+                default:
+                    Console.WriteLine("[잘못된 입력입니다!] 엔터를 누르세요!");
+                    Console.ReadLine();
+                    break;
 
             }
+        
 
         }
 
@@ -97,9 +142,10 @@ namespace PraticeEx3
         static void AnalyzeNumbers(ArrayNumber _arrayNumber)
         {
             int ArraySum = 0;
+          
             int ArrayMax = _arrayNumber.Numbers[0];
             int ArrayMin = _arrayNumber.Numbers[0];
-            Console.Write("\n [짝수 목록] : ");
+            Console.WriteLine("\n[짝수 목록] ");
 
             for (int i = 0; i < _arrayNumber.Numbers.Length; i++)
 
@@ -126,9 +172,15 @@ namespace PraticeEx3
                 {
                     Console.WriteLine($"{CurrentNumber}");
                 }
-
-
             }
+
+            double ArrayAvg = (double)ArraySum / _arrayNumber.Numbers.Length;
+
+            Console.WriteLine($"\n 합계 : {ArraySum}");
+            Console.WriteLine($" 평균 : {ArrayAvg}");
+            Console.WriteLine($" 최대 : {ArrayMax} / 최소 : {ArrayMin}");
+            Console.WriteLine("\n 확인 후 엔터를 누르세요.");
+            Console.ReadLine();
         }
 
         static void ReverseArray(ArrayNumber _arrayNumber)
@@ -136,7 +188,43 @@ namespace PraticeEx3
 
             // 배열의 전체 길이를 구한다 (여기서 배열의 최대 길이는 : 5)
             int Length = _arrayNumber.Numbers.Length;
-            
+
+
+            // 2. 반복문을 '절반(len / 2)'만 돌리는 것이 핵심입니다!
+            for (int i = 0; i < Length / 2; i++)
+            {
+
+                // [교환 시작] 컵 A와 컵 B의 내용물을 바꾸는 과정입니다.
+
+                // 3. 임시 변수(temp)에 '앞쪽' 값을 미리 대피시켜 둡니다.
+                // i가 0일 때: temp = 0번 칸의 값
+                int temp = _arrayNumber.Numbers[i];
+
+
+                // 4. '뒤쪽'에 있는 값을 '앞쪽' 칸에 덮어씁니다.
+                // len - 1 - i 는 i와 대칭되는 뒷번호입니다. (i가 0이면 4번, 1이면 3번)
+                _arrayNumber.Numbers[i] = _arrayNumber.Numbers[Length - 1 - i];
+
+               
+                // 5. 미리 대피시켜 두었던 temp(원래 앞쪽 값)를 '뒤쪽' 칸에 넣습니다.
+                // 이로써 두 칸의 값이 완벽하게 서로 바뀌었습니다(Swap).
+                _arrayNumber.Numbers[Length - 1 - i] = temp;
+
+
+
+                /*
+                 * 절반(len / 2)만 돌렸을 때  => 반복문이 딱 2번만 돕니다. (5 / 2 = 2)
+                 * 
+                 * 1회차 (i = 0): 맨 앞(1)과 맨 뒤(5)를 바꿉니다. =>  결과: [5, 2, 3, 4, 1]
+                 * 
+                 * 2회차 (i = 1): 그 다음 안쪽인 2와 4를 바꿉니다. => 결과: [5, 4, 3, 2, 1] (뒤집기 성공!)
+                 * 
+                 * 전체(5번)를 다 돌리면 "바꿨던 걸 다시 또 바꿔서" 원래 상태로 돌아와 버리기 때문입니다.
+                  
+
+                 */
+            }
+
 
         }
 
@@ -147,8 +235,6 @@ namespace PraticeEx3
 
             for (int i = 0; i < _arrayNumber.Numbers.Length; i++)
             {
-
-
                 _arrayNumber.Numbers[(int)i] = random.Next(1, 101);
             }
 
@@ -157,14 +243,18 @@ namespace PraticeEx3
         static void ShowScreen(ArrayNumber _arrayNumber)
         {
 
+            Console.Clear();
             Console.WriteLine("===================================");
+            Console.Write(" 현재 데이터:");
 
             for (int i = 0; i < _arrayNumber.Numbers.Length; i++)
             {
 
                 Console.Write($"[{_arrayNumber.Numbers[i]}] ");
             }
-
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine("[1.입력] [2.프리셋] [3.랜덤] [4.분석] [5.뒤집기] [0.종료]");
             Console.WriteLine("===================================");
 
         }
@@ -177,9 +267,14 @@ namespace PraticeEx3
 
            ArrayNumber arrayNumber = new ArrayNumber();
 
-            InputNumber(arrayNumber);
-            RandomInputNumber(arrayNumber);
-            ShowScreen(arrayNumber);
+            while (arrayNumber.IsRunning)
+            {
+
+                ShowScreen(arrayNumber);
+               ProcessMenu(arrayNumber);
+
+
+            }
 
             Console.WriteLine("\n엔터를 누르면 종료");
             Console.ReadLine();
