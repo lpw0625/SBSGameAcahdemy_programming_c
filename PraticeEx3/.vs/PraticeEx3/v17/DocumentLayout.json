@@ -1,7 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\dlvud\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uAC8C\uC784 \uCEE8\uD150\uCE20 \uC81C\uC791 \uAD6D\uAE30 \uC9C0\uC6D0 \uD504\uB85C\uADF8\uB798\uBC0D \uC218\uC5C5 \uCF54\uB4DC\\SBSGameAcahdemy_programming_c\\PraticeEx3\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\PraticeEx3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63BD6EB1-31AE-4DFB-A901-5966048214DE}|PraticeEx3.csproj|c:\\users\\sbs\\desktop\\sbsgameacahdemy_programming_c\\praticeex3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63BD6EB1-31AE-4DFB-A901-5966048214DE}|PraticeEx3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\PraticeEx3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\PraticeEx3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-12T00:08:32.891Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -15,9 +15,11 @@ namespace PraticeEx3
        
         public class ArrayNumber
         {
-            private int[] m_ArrayInt = new int[5];
+           /* private int[] m_ArrayInt = new int[5];*/ // 배열[]을 쓸때
+            private List<int> m_ArrayInt = new List<int>(); // List를 쓸때.
 
-            public int[] Numbers
+            //public int[] Numbers
+            public List<int> Numbers
             {
                 get { return m_ArrayInt; }
             }
@@ -33,11 +35,17 @@ namespace PraticeEx3
             static void InputNumber(ArrayNumber _arrayNumber)
             {
 
+            _arrayNumber.Numbers.Clear();
+            // List를 새로 입력받기 위해 기존 데이터를 바꾼다.
+
             Console.WriteLine("\n 숫자 5개를 입력을 해보세요");
-            for (int i = 0; i < _arrayNumber.Numbers.Length; i++)
+            //for (int i = 0; i < _arrayNumber.Numbers.Length; i++)
+            for (int i = 0; i < 5; i++)
             {
                 Console.WriteLine($"{i + 1}번 숫자: ");
-                _arrayNumber.Numbers[i] = int.Parse(Console.ReadLine());
+                //_arrayNumber.Numbers[i] = int.Parse(Console.ReadLine());
+                int input = int.Parse( Console.ReadLine());   
+                _arrayNumber.Numbers.Add(input);
 
                 //  포인트 1: _arrayNumber 뒤에 '.m_ArrayInt'를 찍어 배열에 접근합니다.
                 //  포인트 2: 배열 뒤에 '.Length'를 붙여서 '5번 반복해라'라고 명시합니다.
@@ -111,11 +119,13 @@ namespace PraticeEx3
 
         static void PresetNumber(ArrayNumber _arrayNumber)
         {
+            _arrayNumber.Numbers.Clear();
+
             int[] data = { 10, 20, 30, 40, 50 };
 
             for (int i = 0; i < data.Length;i++)
             {
-                _arrayNumber.Numbers[i] = data[i];
+                _arrayNumber.Numbers.Add(data[i]);
             }
 
             Console.WriteLine("\n 입력한 숫자에 대한 데이터 로드가 완료했습니다! (엔터를 누르세요)");
@@ -142,12 +152,12 @@ namespace PraticeEx3
         static void AnalyzeNumbers(ArrayNumber _arrayNumber)
         {
             int ArraySum = 0;
-          
             int ArrayMax = _arrayNumber.Numbers[0];
             int ArrayMin = _arrayNumber.Numbers[0];
             Console.WriteLine("\n[짝수 목록] ");
 
-            for (int i = 0; i < _arrayNumber.Numbers.Length; i++)
+            for (int i = 0; i < _arrayNumber.Numbers.Count; i++)
+            //for (int i = 0; i < _arrayNumber.Numbers.Length; i++)
 
             {
                 int CurrentNumber = _arrayNumber.Numbers[i];
@@ -174,7 +184,8 @@ namespace PraticeEx3
                 }
             }
 
-            double ArrayAvg = (double)ArraySum / _arrayNumber.Numbers.Length;
+            //double ArrayAvg = (double)ArraySum / _arrayNumber.Numbers.Length;
+            double ArrayAvg = (double)ArraySum / _arrayNumber.Numbers.Count;
 
             Console.WriteLine($"\n 합계 : {ArraySum}");
             Console.WriteLine($" 평균 : {ArrayAvg}");
@@ -187,11 +198,11 @@ namespace PraticeEx3
         {
 
             // 배열의 전체 길이를 구한다 (여기서 배열의 최대 길이는 : 5)
-            int Length = _arrayNumber.Numbers.Length;
+            int count = _arrayNumber.Numbers.Count;
 
 
             // 2. 반복문을 '절반(len / 2)'만 돌리는 것이 핵심입니다!
-            for (int i = 0; i < Length / 2; i++)
+            for (int i = 0; i < count / 2; i++)
             {
 
                 // [교환 시작] 컵 A와 컵 B의 내용물을 바꾸는 과정입니다.
@@ -203,12 +214,12 @@ namespace PraticeEx3
 
                 // 4. '뒤쪽'에 있는 값을 '앞쪽' 칸에 덮어씁니다.
                 // len - 1 - i 는 i와 대칭되는 뒷번호입니다. (i가 0이면 4번, 1이면 3번)
-                _arrayNumber.Numbers[i] = _arrayNumber.Numbers[Length - 1 - i];
+                _arrayNumber.Numbers[i] = _arrayNumber.Numbers[count - 1 - i];
 
                
                 // 5. 미리 대피시켜 두었던 temp(원래 앞쪽 값)를 '뒤쪽' 칸에 넣습니다.
                 // 이로써 두 칸의 값이 완벽하게 서로 바뀌었습니다(Swap).
-                _arrayNumber.Numbers[Length - 1 - i] = temp;
+                _arrayNumber.Numbers[count - 1 - i] = temp;
 
 
 
@@ -230,12 +241,19 @@ namespace PraticeEx3
 
         static void RandomInputNumber(ArrayNumber _arrayNumber)
         {
+
+            _arrayNumber.Numbers.Clear();
             Console.WriteLine("\n 1~100까지 숫자를 무작위로 뽑습니다.");
             Random random = new Random();
 
-            for (int i = 0; i < _arrayNumber.Numbers.Length; i++)
+            //for (int i = 0; i < _arrayNumber.Numbers.Length; i++)
+            for (int i = 0; i < 5; i++)
             {
-                _arrayNumber.Numbers[(int)i] = random.Next(1, 101);
+                {
+                    _arrayNumber.Numbers.Add(random.Next(1, 101));
+
+                    // _arrayNumber 매개 변수에 불러온 Numbers 프롬파티를 불러온다. 정수 중 1부터 101까지 랜덤한 숫자를 불러 오는 것.
+                }
             }
 
         }
@@ -247,7 +265,7 @@ namespace PraticeEx3
             Console.WriteLine("===================================");
             Console.Write(" 현재 데이터:");
 
-            for (int i = 0; i < _arrayNumber.Numbers.Length; i++)
+            for (int i = 0; i < _arrayNumber.Numbers.Count; i++)
             {
 
                 Console.Write($"[{_arrayNumber.Numbers[i]}] ");
@@ -292,7 +310,7 @@ namespace PraticeEx3
  * 
  * 2  - 2 2를 누르면 스크립트에 미리 저장해둔 정보로 숫자를 저장
  * 
- * 2 = 3  3을 누르면 랜덤한 숫자 5개가 ka입력되게 만들어 주세용
+ * 2 = 3  3을 누르면 랜덤한 숫자 5개가 입력되게 만들어 주세용
  * 
  * 
  * 
@@ -305,6 +323,13 @@ namespace PraticeEx3
  * 역순 출력
  * 
  * 5  -1 배열 내용을 뒤집어 버리기 
+ * 
+ * 
+ * 추가 사항 
+ * 
+ * 메뉴에 값을 삭제를 하는 기능을 넣을 것
+ * 
+ * 입력한 숫자, 혹은 랜덤하게 나온 배열의 값이 중복이 되 안된다.
  * 
  * 
  */
