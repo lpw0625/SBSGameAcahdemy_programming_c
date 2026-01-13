@@ -1,0 +1,7 @@
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Reasoning_Number\bin\Debug\Reasoning_Number.exe.config
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Reasoning_Number\bin\Debug\Reasoning_Number.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Reasoning_Number\bin\Debug\Reasoning_Number.pdb
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Reasoning_Number\obj\Debug\Reasoning_Number.csproj.AssemblyReference.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Reasoning_Number\obj\Debug\Reasoning_Number.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Reasoning_Number\obj\Debug\Reasoning_Number.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\Reasoning_Number\obj\Debug\Reasoning_Number.pdb
