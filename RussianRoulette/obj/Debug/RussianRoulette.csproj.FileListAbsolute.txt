@@ -1,0 +1,7 @@
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\RussianRoulette\bin\Debug\RussianRoulette.exe.config
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\RussianRoulette\bin\Debug\RussianRoulette.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\RussianRoulette\bin\Debug\RussianRoulette.pdb
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\RussianRoulette\obj\Debug\RussianRoulette.csproj.AssemblyReference.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\RussianRoulette\obj\Debug\RussianRoulette.csproj.CoreCompileInputs.cache
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\RussianRoulette\obj\Debug\RussianRoulette.exe
+C:\Users\SBS\Desktop\SBSGameAcahdemy_programming_c\RussianRoulette\obj\Debug\RussianRoulette.pdb
