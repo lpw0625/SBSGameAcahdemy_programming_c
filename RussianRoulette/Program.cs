@@ -25,7 +25,14 @@ namespace RussianRoulette
 
             Bullet result = revolver.cylinder.PullTrigger();
 
-            if(result != null)
+            List<Player> player = new List<Player>();
+            player.Add(new Player("플레이어A", 3));
+            player.Add(new Player("플레이어A", 3));
+            player.Add(new Player("플레이어A", 3));
+            player.Add(new Player("플레이어A", 3));
+            player.Add(new Player("플레이어A", 3));
+            player.Add(new Player("플레이어A", 3));
+            if (result != null)
                 Console.WriteLine($"{result.Type} 발사 ! {result.Damage}");
 
             else
