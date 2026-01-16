@@ -1,0 +1,128 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\Russian_roulette_EX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E67AD9F-625A-414C-A26F-4E5A67EEBF00}|Russian_roulette_EX.csproj|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\Russian_roulette_EX\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E67AD9F-625A-414C-A26F-4E5A67EEBF00}|Russian_roulette_EX.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E67AD9F-625A-414C-A26F-4E5A67EEBF00}|Russian_roulette_EX.csproj|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\Russian_roulette_EX\\humanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E67AD9F-625A-414C-A26F-4E5A67EEBF00}|Russian_roulette_EX.csproj|solutionrelative:humanmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E67AD9F-625A-414C-A26F-4E5A67EEBF00}|Russian_roulette_EX.csproj|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\Russian_roulette_EX\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E67AD9F-625A-414C-A26F-4E5A67EEBF00}|Russian_roulette_EX.csproj|solutionrelative:human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E67AD9F-625A-414C-A26F-4E5A67EEBF00}|Russian_roulette_EX.csproj|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\Russian_roulette_EX\\revolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E67AD9F-625A-414C-A26F-4E5A67EEBF00}|Russian_roulette_EX.csproj|solutionrelative:revolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E67AD9F-625A-414C-A26F-4E5A67EEBF00}|Russian_roulette_EX.csproj|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\Russian_roulette_EX\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E67AD9F-625A-414C-A26F-4E5A67EEBF00}|Russian_roulette_EX.csproj|solutionrelative:bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E67AD9F-625A-414C-A26F-4E5A67EEBF00}|Russian_roulette_EX.csproj|c:\\users\\sbs\\desktop\\sbsgameacahdemy_programming_c\\russian_roulette_ex\\breech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E67AD9F-625A-414C-A26F-4E5A67EEBF00}|Russian_roulette_EX.csproj|solutionrelative:breech.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 181,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Human.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\Russian_roulette_EX\\Human.cs",
+              "RelativeDocumentMoniker": "Human.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\Russian_roulette_EX\\Human.cs",
+              "RelativeToolTip": "Human.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:19:53.935Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Revolver.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\Russian_roulette_EX\\Revolver.cs",
+              "RelativeDocumentMoniker": "Revolver.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\Russian_roulette_EX\\Revolver.cs",
+              "RelativeToolTip": "Revolver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:21:35.862Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bullet.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\Russian_roulette_EX\\Bullet.cs",
+              "RelativeDocumentMoniker": "Bullet.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\Russian_roulette_EX\\Bullet.cs",
+              "RelativeToolTip": "Bullet.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA8wCkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:18:52.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Breech.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\Russian_roulette_EX\\Breech.cs",
+              "RelativeDocumentMoniker": "Breech.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\Russian_roulette_EX\\Breech.cs",
+              "RelativeToolTip": "Breech.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:18:22.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HumanManager.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\Russian_roulette_EX\\HumanManager.cs",
+              "RelativeDocumentMoniker": "HumanManager.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\Russian_roulette_EX\\HumanManager.cs",
+              "RelativeToolTip": "HumanManager.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:20:23.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\Russian_roulette_EX\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\Russian_roulette_EX\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAcwE0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T00:17:18.279Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -51,10 +51,38 @@ namespace RussianRoulette
             return fireBullet;
         }
 
+        public bool HasBullet()
+        {
+           for (int i = 0; i < m_cylinders.Count; i++)
+            {
+                if (m_cylinders[i] != null)
+                    return true;
+            }
+
+           return false;
+        }
+
+
+
         // [약실 회전] 리스트의 순서를 무작위로 섞는 기능을 구현할 위치입니다.
         public void Shuffle()
         {
-            // 여기에 Random 객체를 사용해 m_cylinders 리스트를 섞는 로직이 들어갈 예정입니다.
+          Random random = new Random();
+
+            int n = m_cylinders.Count;
+            while (n > 1)
+            {
+                n--;
+
+                int k = random.Next(n + 1);
+
+                Bullet temp = m_cylinders[k];
+                m_cylinders[k] = m_cylinders[n];
+                m_cylinders[n] = temp;
+            }
+
+            currentChamber = 0;
+            Console.WriteLine("\n[시스템] 탄창을 '드르륵' 돌려 무작위로 섞었습니다.");
         }
     }
 }

@@ -3,11 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\RussianRoulette\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CD69D246-B1E4-4025-9724-7A4DBC6615BC}|RussianRoulette.csproj|c:\\users\\sbs\\desktop\\sbsgameacahdemy_programming_c\\russianroulette\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD69D246-B1E4-4025-9724-7A4DBC6615BC}|RussianRoulette.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CD69D246-B1E4-4025-9724-7A4DBC6615BC}|RussianRoulette.csproj|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\RussianRoulette\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CD69D246-B1E4-4025-9724-7A4DBC6615BC}|RussianRoulette.csproj|c:\\users\\sbs\\desktop\\sbsgameacahdemy_programming_c\\russianroulette\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD69D246-B1E4-4025-9724-7A4DBC6615BC}|RussianRoulette.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -15,12 +11,16 @@
       "RelativeMoniker": "D:0:0:{CD69D246-B1E4-4025-9724-7A4DBC6615BC}|RussianRoulette.csproj|solutionrelative:revolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CD69D246-B1E4-4025-9724-7A4DBC6615BC}|RussianRoulette.csproj|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\RussianRoulette\\cylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD69D246-B1E4-4025-9724-7A4DBC6615BC}|RussianRoulette.csproj|solutionrelative:cylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CD69D246-B1E4-4025-9724-7A4DBC6615BC}|RussianRoulette.csproj|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\RussianRoulette\\bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CD69D246-B1E4-4025-9724-7A4DBC6615BC}|RussianRoulette.csproj|solutionrelative:bullet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CD69D246-B1E4-4025-9724-7A4DBC6615BC}|RussianRoulette.csproj|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\RussianRoulette\\cylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CD69D246-B1E4-4025-9724-7A4DBC6615BC}|RussianRoulette.csproj|solutionrelative:cylinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CD69D246-B1E4-4025-9724-7A4DBC6615BC}|RussianRoulette.csproj|C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\RussianRoulette\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD69D246-B1E4-4025-9724-7A4DBC6615BC}|RussianRoulette.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 181,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\RussianRoulette\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\RussianRoulette\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBwAAAAhAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwBkAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T00:08:26.862Z",
               "IsPinned": true,
@@ -52,26 +52,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\RussianRoulette\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
               "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\RussianRoulette\\Player.cs",
               "RelativeToolTip": "Player.cs",
-              "ViewState": "AQIAADQAAAAAAAAAAAAkwEgAAABCAAAA",
+              "ViewState": "AQIAADsAAAAAAAAAAAAUwFwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T03:08:16.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Revolver.cs",
               "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\RussianRoulette\\Revolver.cs",
               "RelativeDocumentMoniker": "Revolver.cs",
               "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\RussianRoulette\\Revolver.cs",
               "RelativeToolTip": "Revolver.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAJAAAA",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwCoAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-14T01:12:23.618Z",
               "EditorCaption": ""
@@ -84,21 +84,23 @@
               "RelativeDocumentMoniker": "Bullet.cs",
               "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\RussianRoulette\\Bullet.cs",
               "RelativeToolTip": "Bullet.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAQwB4AAAAOAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAcwDEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T01:09:13.804Z"
+              "WhenOpened": "2026-01-14T01:09:13.804Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Cylinder.cs",
               "DocumentMoniker": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\RussianRoulette\\Cylinder.cs",
               "RelativeDocumentMoniker": "Cylinder.cs",
               "ToolTip": "C:\\Users\\SBS\\Desktop\\SBSGameAcahdemy_programming_c\\RussianRoulette\\Cylinder.cs",
               "RelativeToolTip": "Cylinder.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAALAAAA",
+              "ViewState": "AQIAACUAAAAAAAAAAAA5wD0AAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T01:08:58.607Z"
+              "WhenOpened": "2026-01-14T01:08:58.607Z",
+              "EditorCaption": ""
             }
           ]
         }
